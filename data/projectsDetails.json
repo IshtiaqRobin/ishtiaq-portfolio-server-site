@@ -1,0 +1,59 @@
+[
+    {
+        "img": "https://i.ibb.co/Csf7TDX/swap.png",
+        "name": "Swap",
+        "projects_id": "0001",
+        "img1": "https://i.ibb.co/ZVGPt1v/swap1.png",
+        "img2": "https://i.ibb.co/5rD8wrC/swap2.png",
+        "img3": "https://i.ibb.co/zGtC93d/swap3.png",
+        "img4": "https://i.ibb.co/sjKmZG8/swap4.png",
+        "details": [
+            "This website is almost like bikroy.com",
+            "A user can sign up as a buyer and seller on this website.",
+            "Other way this website has a payment gateway system.",
+            "This website has an Admin panel the admin can delete any buyers and sellers if he wants.",
+            "A sellers advertise this product"
+        ],
+        "live_site_link": "https://swap-634b6.web.app/",
+        "client_site_link": "https://github.com/ishtiaqrobin/Swap-site-client",
+        "server_site_link": "https://github.com/ishtiaqrobin/Swap-server-site"
+    },
+    {
+        "img": "https://i.ibb.co/zb2vsrj/master-study.png",
+        "name": "Master Study",
+        "projects_id": "0002",
+        "img1": "https://i.ibb.co/d2zLGdR/master1.png",
+        "img2": "https://i.ibb.co/1qWzPLJ/master2.png",
+        "img3": "https://i.ibb.co/3MR0rbt/master3.png",
+        "img4": "https://i.ibb.co/x5dPhHQ/master4.png",
+        "details": [
+            "This website is almost like bikroy.com",
+            "A user can sign up as a buyer and seller on this website.",
+            "Other way this website has a payment gateway system.",
+            "This website has an Admin panel the admin can delete any buyers and sellers if he wants.",
+            "A sellers advertise this product"
+        ],
+        "live_site_link": "https://personal-file-475a5.web.app/",
+        "client_site_link": "https://github.com/ishtiaqrobin/master-study-client",
+        "server_site_link": "https://github.com/ishtiaqrobin/master-study-server"
+    },
+    {
+        "img": "https://i.ibb.co/QC2cZwR/code-school.png",
+        "name": "Code School",
+        "projects_id": "0003",
+        "img1": "https://i.ibb.co/MpcxDFV/code-school1.png",
+        "img2": "https://i.ibb.co/tzsnGVR/code-school2.png",
+        "img3": "https://i.ibb.co/L63H31X/code-school3.png",
+        "img4": "https://i.ibb.co/F5VnZrd/code-school4.png",
+        "details": [
+            "This website is almost like bikroy.com",
+            "A user can sign up as a buyer and seller on this website.",
+            "Other way this website has a payment gateway system.",
+            "This website has an Admin panel the admin can delete any buyers and sellers if he wants.",
+            "A sellers advertise this product"
+        ],
+        "live_site_link": "https://assignment-10-5575f.web.app/home",
+        "client_site_link": "https://github.com/ishtiaqrobin/Code-school-client",
+        "server_site_link": "https://github.com/ishtiaqrobin/Code-school-server"
+    }
+]
